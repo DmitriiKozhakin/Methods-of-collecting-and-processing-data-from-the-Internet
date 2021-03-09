@@ -1,0 +1,11 @@
+{
+  "response": [
+    {
+      "first_name": "Ratus",
+      "id": 230149164,
+      "last_name": "Fantastus",
+      "can_access_closed": true,
+      "is_closed": true
+    }
+  ]
+}
